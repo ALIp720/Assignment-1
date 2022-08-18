@@ -31,7 +31,7 @@ There  is also a controversy that Klarna is encouraging young people's behaviors
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)<br>
 <br>
 
-    Klarna's business model is interesting. Literally the company's targeted customers were people that would like to make a purchases with zero interest rate financing plan. However, their revenues are coming from the merchants that would like to attract more customers and increase their sales. In June 2021, Klarna was valued at $45.6 Billion, ranking the most valuable fintech company in Europe. Klarna has acrossed the pond and extend their business in North Amerca, also extending their business in Asia Pacific. <Br>
+Klarna's business model is interesting. Literally the company's targeted customers were people that would like to make a purchases with zero interest rate financing plan. However, their revenues are coming from the merchants that would like to attract more customers and increase their sales. In June 2021, Klarna was valued at $45.6 Billion, ranking the most valuable fintech company in Europe. Klarna has acrossed the pond and extend their business in North Amerca, also extending their business in Asia Pacific. <Br>
 Klarna's competitors have been the "buy now, pay later" offering companies, such as PayPal Credit, Afterpay etc. Klarna has been pairing up with retail giants, such as Sephora, H&M, Nike etc. Klarna is showing in these website as one of the payment methods. Klarna also launched their shopping app and allow people to buy from any online stores. In addition to providing interest-free installment payment options, it also own most of the risk of default payment. Therefore, they made the return payment extremely easy for consumers. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)<br>
@@ -62,7 +62,7 @@ Klarna has been one of the fast growing fintech companies in the world.
 The core metrics are as follows: company value, transaction volume and user base.
 In June 2021, Klarna was valued at $45.6 Billion, ranking the most valuable fintech company in Europe. Even though Klarna's value has been cut in 2022 due to the slowdown from the consumer purchasing. <br>
 
-    A quote from Bloomberg "The fintech makes most of its money by charging the retailer instead, with companies paying up to 3.4% of each transaction plus 20 pence (28 cents) for the “pay in 30 days” product. Klarna’s 90 million users can use the app at a host of online and brick-and-mortar stores, including ASOS, H&M, Lululemon and Urban Outfitters. The company reckons retailers offering BNPL see an increase of approximately 45% in average order value."
+A quote from Bloomberg "The fintech makes most of its money by charging the retailer instead, with companies paying up to 3.4% of each transaction plus 20 pence (28 cents) for the “pay in 30 days” product. Klarna’s 90 million users can use the app at a host of online and brick-and-mortar stores, including ASOS, H&M, Lululemon and Urban Outfitters. The company reckons retailers offering BNPL see an increase of approximately 45% in average order value."
 https://www.bloomberg.com/news/articles/2021-09-03/millennials-and-gen-z-shoppers-are-addicted-to-46-billion-klarna <br>
 A company with such huge user base is one of the crucial success feature of Klarna. It also opens a lot of doors for their data analysis and open banking business.
 
@@ -77,19 +77,19 @@ Based on the 3 metrics I mentioned in the previous session, Klarna has been perf
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)<Br>
 <Br>
 
-    I believe that Klarna didn't explicitely advertising it. The data that this company could collect based on the transactions are extremely valuable. I would hope that the company would utilize the data effectively and conciously. <br>
+I believe that Klarna didn't explicitely advertising it. The data that this company could collect based on the transactions are extremely valuable. I would hope that the company would utilize the data effectively and conciously. <br>
 I believe Klarna already made their moves into the Open Banking domain. On their website, they are advocating the Open banking ideas and asking people to create API with major banks. That's another area that a lot of big companies want to get in. 
 
 * Why do you think that offering this product or service would benefit the company? <br>
 <br>
 
-    First of all, the data is extremely valuable. This could become the most valuable asset for the company. Since this area is also highly regulated, I would have to do further study to measure the benefits. 
+First of all, the data is extremely valuable. This could become the most valuable asset for the company. Since this area is also highly regulated, I would have to do further study to measure the benefits. 
 
 * What technologies would this additional product or service utilize?<br>
 <br>
-
-    AI and Machine learning would be the main technologies for this additioanl service.  
+    
+AI and Machine learning would be the main technologies for this additioanl service.  
 
 * Why are these technologies appropriate for your solution?<br>
 <br>
-    AI and Machine Learning could do perform a 
+AI and Machine Learning could do perform a 
